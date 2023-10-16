@@ -163,3 +163,4 @@ cython_debug/
 config.py
 **/chrome-win64/
 **/files/chrome-win64/
+**/files/cookies.pkl
